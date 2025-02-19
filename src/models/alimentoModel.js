@@ -1,4 +1,4 @@
-[
+exports.alimentos = [
 { id: 1, nome: 'Arroz', calorias: 130  , image:"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQzLU-iLsHKIeOxqya3iE2T7UImrCssnKS-Mm4EXeeFdTYadn8bU-AjVWKuEzolumOC_ol9rBd2Ycf-x_qvjjTF4YGMQ5hs21ItpfL4g" },
 { id: 2, nome: 'Feijão', calorias: 92 , image:"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTc4spCMB998ynI7WdWxD5qZd0n0k9u77pozSZGBiiT2Bj3OEmQjQdLPHYVsBkrwgCEVtQ_kYvrsWO-FfC4lNzU02VurGCcV8xSSfKUqg" },
 { id: 3, nome: 'Frango', calorias: 165 , image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi5sry020Om0RsikL6UyL1x-bNlsFcfhRh_g&s" },
